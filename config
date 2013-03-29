@@ -2,3 +2,5 @@
 	repositoryformatversion = 0
 	filemode = false
 	bare = true
+[receive]
+	denyCurrentBranch = ignore
